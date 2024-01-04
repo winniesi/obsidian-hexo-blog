@@ -1,6 +1,17 @@
 ---
 title: 群晖 DSM7 安装 transmission
+date: 2024-01-04 19:30
+updated: 
+tags:
+  - Blogging
+categories: 
+permalink: 
+published: true
+cover: 
+description: 
+author: winniesi
 ---
+
 # 硬盘坏了
 
 很多年前买了一台群晖 DS218，然后买了2块二手 2tb 硬盘塞了进去，没想到这两块兢兢业业的工作了很多年。

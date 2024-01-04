@@ -1,6 +1,17 @@
 ---
 title: 使用 direnv 自动激活 python 虚拟环境
+date: 2024-01-04 19:34
+updated: 
+tags:
+  - Blogging
+categories: 
+permalink: 
+published: true
+cover: 
+description: 
+author: winniesi
 ---
+
 从 python 3 的某个版本后，创建虚拟环境变得很方便：
 
 ```bash

@@ -1,6 +1,17 @@
 ---
 title: macOS 按需要挂载硬盘
+date: 2024-01-04 19:31
+updated: 
+tags:
+  - Blogging
+categories: 
+permalink: 
+published: true
+cover: 
+description: 
+author: winniesi
 ---
+
 由于我工作用的 MacBook 常年连接显示器使用（LG Ultrafine 4K），又通过显示器的 type-c 连接移动硬盘使用。电脑每次开机都会自动 mount 硬盘，这没问题，但每次断开 MacBook 和显示器的连接时，都需要 unmount 一下这个硬盘，就特别烦人。
 
 这块硬盘的资料只是偶尔查看，我需要系统不再自动加载这块硬盘，需要的时候我手动加载，github 上有一个项目能满足我的要求，但是已经太久不更新了我估计跑不起来。

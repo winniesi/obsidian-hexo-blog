@@ -1,6 +1,17 @@
 ---
 title: 群晖 SSH 使用中的一些问题
+date: 2024-01-04 19:37
+updated: 
+tags:
+  - Blogging
+categories: 
+permalink: 
+published: true
+cover: 
+description: 
+author: winniesi
 ---
+
 最近在开发过程中使用群晖遇到一些问题。
 
 # SCP 问题

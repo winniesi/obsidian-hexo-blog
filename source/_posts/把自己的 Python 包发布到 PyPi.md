@@ -1,6 +1,17 @@
 ---
 title: 把自己的 Python 包发布到 PyPi
+date: 2024-01-04 19:33
+updated: 
+tags:
+  - Blogging
+categories: 
+permalink: 
+published: true
+cover: 
+description: 
+author: winniesi
 ---
+
 把自己的写的 python 包发布到 pypi 后，就可以方便的通过 pip install 安装。写过大名鼎鼎 requests 包的作者有一个 [setup.py](http://setup.py/) 文件，用这个已经配置好的文件可以非常方便的上传自己的包。
 
 先下载该作者的 setup 文件到自己的项目目录：[https://github.com/kennethreitz/setup.py](https://github.com/kennethreitz/setup.py)

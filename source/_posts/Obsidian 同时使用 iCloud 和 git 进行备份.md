@@ -1,6 +1,17 @@
 ---
 title: Obsidian 同时使用 iCloud 和 git 进行备份
+date: 2024-01-04 14:07
+updated: 
+tags:
+  - Blogging
+categories: 
+permalink: 
+published: true
+cover: 
+description: 
+author: winniesi
 ---
+
 使用 iCloud 备份 Obsidian 可以很方便的在 iPhone 和  macOS 之间同步，但是我同时想通过 git 来同步，这样有更多的可操作性（比如通过 github 上的备份生成博客等）。
 
 Obsidian 支持通过 Obsidian git 插件来同步，但是带来的问题是 obsidian vault 里面的 `.git` 目录会存在太多的版本数据，这个给 iCloud 同步带来了很多负担，而且可能产生一些文件冲突问题。

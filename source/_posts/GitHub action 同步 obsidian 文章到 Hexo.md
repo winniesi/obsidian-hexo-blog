@@ -1,6 +1,17 @@
 ---
-title: 利用 GitHub action 同步 obsidian 文章到 hexo
+title: GitHub action 同步 obsidian 文章到 Hexo
+date: 2024-01-04 18:11
+updated: 
+tags:
+  - Blogging
+categories: 
+permalink: 
+published: true
+cover: 
+description: 
+author: winniesi
 ---
+
 
 目标是将托管在 GitHub 上面 obsidian blog 目录下面的内容自动同步到 Hexo。
 
