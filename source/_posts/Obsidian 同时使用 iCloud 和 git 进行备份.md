@@ -25,7 +25,3 @@ git init --separate-git-dir=~/Data/Obsidian-git
 也可以为手动备份设置一个快捷键，方便自己快速的提交备份。
 
 ![](https://qiniuimages.baidiudiu.com/uPic/1rUJYQ.png)
-
-执行完毕后可以看到提交状态：
-
-![](https://qiniuimages.baidiudiu.com/uPic/wusoHk.png)
