@@ -5,7 +5,7 @@ updated:
 tags:
   - Blogging
 categories: 
-permalink: " homebrew see what apps depend on this package"
+permalink: 
 published: true
 cover: 
 description: 

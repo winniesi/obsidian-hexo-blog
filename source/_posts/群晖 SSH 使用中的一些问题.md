@@ -5,7 +5,7 @@ updated:
 tags:
   - Blogging
 categories: 
-permalink: Some Snags with Synology SSH Access
+permalink: 
 published: true
 cover: 
 description: 

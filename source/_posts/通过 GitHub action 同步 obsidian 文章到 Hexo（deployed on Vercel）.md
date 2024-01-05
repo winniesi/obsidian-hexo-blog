@@ -7,7 +7,7 @@ tags:
   - Hexo
   - GitHub
 categories: 
-permalink: Use a GitHub action to update your Obsidian notes on your Hexo blog hosted with Vercel
+permalink: 
 published: true
 cover: 
 description: 
