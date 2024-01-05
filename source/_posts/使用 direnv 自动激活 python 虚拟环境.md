@@ -8,7 +8,7 @@ categories:
 permalink: 
 published: true
 cover: 
-description: 
+description: 和 pyenv 类似，direnv 会在项目目录下写入一个文件 .envrc 并写入进入文件后需要运行的命令
 author: winniesi
 ---
 

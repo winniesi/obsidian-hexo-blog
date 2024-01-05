@@ -8,7 +8,7 @@ categories:
 permalink: 
 published: true
 cover: 
-description: 
+description: 由于我工作用的 MacBook 常年连接显示器使用（LG Ultrafine 4K），又通过显示器的 type-c 连接移动硬盘使用。电脑每次开机都会自动 mount 硬盘，这没问题，但每次断开 MacBook 和显示器的连接时，都需要 unmount 一下这个硬盘，就特别烦人。
 author: winniesi
 ---
 

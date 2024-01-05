@@ -8,7 +8,7 @@ categories:
 permalink: 
 published: true
 cover: 
-description: 
+description: 把自己的写的 python 包发布到 pypi 后，就可以方便的通过 pip install 安装。写过大名鼎鼎 requests 包的作者有一个 setup.py 文件，用这个已经配置好的文件可以非常方便的上传自己的包。
 author: winniesi
 ---
 

@@ -8,7 +8,7 @@ categories:
 permalink: 
 published: true
 cover: 
-description: 
+description: 很多年前买了一台群晖 DS218，然后买了2块二手 2tb 硬盘塞了进去，没想到这两块兢兢业业的工作了很多年
 author: winniesi
 ---
 

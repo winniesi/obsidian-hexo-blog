@@ -8,7 +8,7 @@ categories:
 permalink: 
 published: true
 cover: 
-description: 
+description: 以删除 .direnv 文件夹为例
 author: winniesi
 ---
 
