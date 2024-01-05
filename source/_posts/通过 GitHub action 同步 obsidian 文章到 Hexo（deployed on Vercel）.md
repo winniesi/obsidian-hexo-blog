@@ -10,7 +10,7 @@ categories:
 permalink: 
 published: true
 cover: 
-description: 
+description: 目标是将托管在 GitHub 上面 obsidian blog 目录下面的内容自动同步到 GitHub Hexo，然后就可以通过 vercel 等服务自动部署
 author: winniesi
 ---
 

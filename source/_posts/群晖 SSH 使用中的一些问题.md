@@ -8,7 +8,7 @@ categories:
 permalink: 
 published: true
 cover: 
-description: 
+description: SCP 问题的奇怪问题和 .ssh 文件夹权限问题
 author: winniesi
 ---
 

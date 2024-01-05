@@ -9,7 +9,7 @@ categories:
 permalink: 
 published: true
 cover: 
-description: 
+description: 使用 iCloud 备份 Obsidian 可以很方便的在 iPhone 和 macOS 之间同步，但是我同时想通过 git 来同步，这样有更多的可操作性
 author: winniesi
 ---
 
