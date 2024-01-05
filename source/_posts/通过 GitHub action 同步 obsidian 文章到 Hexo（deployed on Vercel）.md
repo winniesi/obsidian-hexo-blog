@@ -1,7 +1,7 @@
 ---
 title: 通过 GitHub action 同步 obsidian 文章到 Hexo（deployed on Vercel）
-date: 2024-01-04 18:11
-updated: 2024-01-05 09:21
+date: 2024-01-04 18:11:24
+updated: 2024-01-05 10:34:49
 tags:
   - Obsidian
   - Hexo
