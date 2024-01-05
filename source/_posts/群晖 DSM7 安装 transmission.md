@@ -3,7 +3,7 @@ title: 群晖 DSM7 安装 transmission
 date: 2024-01-04 19:30
 updated: 
 tags:
-  - Blogging
+  - 群晖
 categories: 
 permalink: 
 published: true

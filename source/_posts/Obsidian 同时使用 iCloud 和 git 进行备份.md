@@ -3,7 +3,8 @@ title: Obsidian 同时使用 iCloud 和 git 进行备份
 date: 2024-01-04 14:07:33
 updated: 
 tags:
-  - Blogging
+  - Obsidian
+  - GitHub
 categories: 
 permalink: 
 published: true

@@ -3,7 +3,7 @@ title: macOS 按需要挂载硬盘
 date: 2024-01-04 19:31
 updated: 
 tags:
-  - Blogging
+  - macOS
 categories: 
 permalink: 
 published: true
