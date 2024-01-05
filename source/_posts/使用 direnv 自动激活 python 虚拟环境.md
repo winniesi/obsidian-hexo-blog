@@ -5,7 +5,7 @@ updated:
 tags:
   - Blogging
 categories: 
-permalink: 
+permalink: How to get direnv to turn on your python virtual environment automatically
 published: true
 cover: 
 description: 

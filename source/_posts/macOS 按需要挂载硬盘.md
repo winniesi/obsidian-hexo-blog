@@ -5,7 +5,7 @@ updated:
 tags:
   - Blogging
 categories: 
-permalink: 
+permalink: macOS mounts hard drives as needed
 published: true
 cover: 
 description: 

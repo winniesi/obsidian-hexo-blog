@@ -5,7 +5,7 @@ updated:
 tags:
   - Blogging
 categories: 
-permalink: 
+permalink: Obsidian uses iCloud and git for backup at the same time
 published: true
 cover: 
 description: 

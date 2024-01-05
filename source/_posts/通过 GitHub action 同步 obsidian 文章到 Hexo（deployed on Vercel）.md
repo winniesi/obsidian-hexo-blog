@@ -7,7 +7,7 @@ tags:
   - Hexo
   - GitHub
 categories: 
-permalink: 
+permalink: Use a GitHub action to update your Obsidian notes on your Hexo blog hosted with Vercel
 published: true
 cover: 
 description: 
@@ -19,7 +19,7 @@ author: winniesi
 
 ### 准备
 
-1. 两个 GitHub repo，分别是备份 obsidian 的 obsidian.git 和 Hexo 项目de obsidian-hexo-blog.git。
+1. 两个 GitHub repo，分别是备份 obsidian 的 obsidian.git 和 Hexo 项目的obsidian-hexo-blog.git。
 2. GitHub 访问令牌，需要在你的 obsidian.git 的 action 中通过令牌来更新 hexo 项目，令牌的具体位置在这里 https://github.com/settings/tokens ，点击左侧 Personal access tokens - Tokens (classic) 选取权限后生成令牌，建议把过期时间设置为 `no expiration`。![token](https://qiniuimages.baidiudiu.com/uPic/kBdXXv.png)
 
 ### 开始

@@ -5,7 +5,7 @@ updated:
 tags:
   - Blogging
 categories: 
-permalink: 
+permalink: How to set up Transmission on Synology DSM7
 published: true
 cover: 
 description: 

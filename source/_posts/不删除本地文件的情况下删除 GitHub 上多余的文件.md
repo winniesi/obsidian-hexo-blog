@@ -5,7 +5,7 @@ updated:
 tags:
   - Blogging
 categories: 
-permalink: 
+permalink: Trash the extra stuff on GitHub but leave your local files alone
 published: true
 cover: 
 description: 

@@ -5,7 +5,7 @@ updated:
 tags:
   - Blogging
 categories: 
-permalink: 
+permalink: How to upload your Python package to PyPi
 published: true
 cover: 
 description: 
