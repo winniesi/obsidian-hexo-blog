@@ -1,7 +1,3 @@
-Hexo Example
-
-This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration.
-
 ## Deploy Your Own
 
 Deploy your own Hexo project with Vercel.
