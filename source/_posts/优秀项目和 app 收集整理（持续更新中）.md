@@ -24,4 +24,4 @@ author: winniesi
 
  [**bclm**](https://github.com/zackelia/bclm) #开源
 
-功能与 AlDente 相同，没有 GUI，只需要一个命令就能设置好充电上限，不需要像 AlDente 一样常驻系统。最新的版本已经支持了 macOS m1。
+功能与 AlDente 相同，没有 GUI，只需要一个命令就能设置好充电上限，不需要像 AlDente 一样常驻系统。最新的版本已经支持了 m 芯片的 mac。
