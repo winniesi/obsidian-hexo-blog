@@ -18,7 +18,7 @@ author: winniesi
 
 可以在 可以在 Mac 休眠时关闭蓝牙，唤醒时自动打开。作用是休眠时阻止间歇性地连接蓝牙配件(耳机或音箱和手机)，解决 Mac 无故唤醒问题。
 
-**AlDente**
+[**AlDente**](https://apphousekitchen.com)
 
 通过读写 MacBook 内置 SMC 芯片来控制充电上限，可以非常好的保护电池健康度。AlDente Free 和 AlDente Pro 两个版本，免费版就够好用。
 
