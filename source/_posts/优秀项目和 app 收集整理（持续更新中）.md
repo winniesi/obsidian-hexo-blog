@@ -25,3 +25,9 @@ author: winniesi
  [**bclm**](https://github.com/zackelia/bclm) #开源
 
 功能与 AlDente 相同，没有 GUI，只需要一个命令就能设置好充电上限，不需要像 AlDente 一样常驻系统。最新的版本已经支持了 m 芯片的 mac。
+
+[Loop](https://github.com/MrKai77/Loop) #开源 
+
+发现一个非常优雅的屏幕窗口管理软件(mac), 叫做 Loop，`brew install mrkai77/cask/loop` 即可安装
+
+浅浅的试了一下, 按下一个键, 之后根据鼠标的方向去放置窗口的逻辑非常优雅。默认的修饰键是左下角的🌐键，用外接键盘可能就得修改了
