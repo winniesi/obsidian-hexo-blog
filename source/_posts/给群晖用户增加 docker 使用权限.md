@@ -9,7 +9,7 @@ categories:
 permalink: 
 published: true
 cover: 
-description: 
+description: 群晖 DSM 7.x 默认没有 docker 组，添加后方便使用第三方管理 docker。
 author: winniesi
 ---
 群晖 DSM 7.x 默认没有 docker 组。
@@ -17,7 +17,7 @@ author: winniesi
 ```bash
  sudo synogroup --add docker # 创建 Docker 组（如果还未存在）
  sudo synogroup --member docker [username] # 将用户添加到 Docker 组
- 
+
 ```
 
 Docker 守护进程 socket (/var/run/docker.sock) 的权限设置不允许当前用户访问。需要调整守护进程socket文件的权限来解决。
